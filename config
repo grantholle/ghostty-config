@@ -6,4 +6,6 @@ background-blur-radius = 10
 window-padding-x = 10
 window-padding-y = 10
 
+theme = SpaceGray Eighties
+
 keybind = global:unconsumed:ctrl+;=toggle_visibility
